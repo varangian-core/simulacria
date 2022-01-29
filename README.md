@@ -1,18 +1,18 @@
-#About The Project
+# About The Project
 
 Simulacria is dynamic templating engine that has contains it's own compiler processes for generating multiple documents and uploading them to your application on-the-fly.
 
-#Suppoorted File Outputs
+# Suppoorted File Outputs
 
-*HTML
-*CSS
-*XML
-*PDF
-*PNG
+- HTML
+- CSS
+- XML
+- PDF
+- PNG
 
 
-#INSTALLATION
-Current Application does not exist, but here are the projected installations
+# INSTALLATION
+* Current Application does not exist, but here are the projected installations *
 
 Download the application 
 
@@ -31,15 +31,15 @@ simulacria run
 This will generate all of the folder structures necessary for the templating engine. To edit the configuration reference <code>CONFIG.YAML</code>
 
 
-#Usage
+# Usage
 
 TBD
 
-#Support
+# Support
 please go to: http://posts.varangianroute.com
 and the issues under the project forum discussion.
 
-#License
+# License
 Licensed under MIT license.
 
 
