@@ -12,7 +12,7 @@ Simulacria is dynamic templating engine that has contains it's own compiler proc
 
 
 # INSTALLATION
-* Current Application does not exist, but here are the projected installations *
+*Current Application does not exist, but here are the projected installations*
 
 Download the application 
 
